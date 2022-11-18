@@ -1,2 +1,2 @@
 # FirstGitProject
-git项目联系
+git项目练习
